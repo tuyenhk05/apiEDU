@@ -1,0 +1,716 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Khóa học tiếng Anh giao tiếp cơ bản",
+      "price": 299000,
+      "originalPrice": 399000,
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=300&fit=crop",
+      "shortDescription": "Học tiếng Anh giao tiếp từ cơ bản đến nâng cao với giáo viên bản ngữ",
+      "fullDescription": "Khóa học tiếng Anh giao tiếp toàn diện dành cho người mới bắt đầu. Bao gồm 40 bài học với video HD, tài liệu PDF, và bài tập thực hành. Học viên sẽ được hướng dẫn bởi giáo viên có kinh nghiệm 10+ năm và có chứng chỉ TESOL.",
+      "category": "Ngoại ngữ",
+      "level": "Cơ bản",
+      "duration": "3 tháng",
+      "lessons": 40,
+      "rating": 4.8,
+      "reviewCount": 1250,
+      "instructor": {
+        "name": "John Smith",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+        "bio": "Giáo viên tiếng Anh bản ngữ với 10 năm kinh nghiệm"
+      },
+      "features": [
+        "40 bài học video HD",
+        "Tài liệu PDF đầy đủ",
+        "Bài tập thực hành",
+        "Hỗ trợ 24/7",
+        "Chứng chỉ hoàn thành"
+      ],
+      "tags": [
+        "tiếng anh",
+        "giao tiếp",
+        "cơ bản",
+        "online"
+      ],
+      "isPopular": true,
+      "discount": 25
+    },
+    {
+      "id": 2,
+      "name": "Lập trình Python từ Zero đến Hero",
+      "price": 599000,
+      "originalPrice": 799000,
+      "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=400&h=300&fit=crop",
+      "shortDescription": "Khóa học lập trình Python toàn diện cho người mới bắt đầu",
+      "fullDescription": "Khóa học Python hoàn chỉnh từ cơ bản đến nâng cao. Bao gồm các chủ đề: cú pháp cơ bản, OOP, web development với Django, data science với pandas, và machine learning. Phù hợp cho người mới bắt đầu muốn trở thành Python developer.",
+      "category": "Lập trình",
+      "level": "Cơ bản đến Nâng cao",
+      "duration": "6 tháng",
+      "lessons": 80,
+      "rating": 4.9,
+      "reviewCount": 2100,
+      "instructor": {
+        "name": "Nguyễn Văn A",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+        "bio": "Senior Python Developer với 8 năm kinh nghiệm"
+      },
+      "features": [
+        "80+ bài học chi tiết",
+        "Dự án thực tế",
+        "Code review",
+        "Cộng đồng hỗ trợ",
+        "Cập nhật lifetime"
+      ],
+      "tags": [
+        "python",
+        "lập trình",
+        "backend",
+        "data science"
+      ],
+      "isPopular": true,
+      "discount": 25
+    },
+    {
+      "id": 3,
+      "name": "Digital Marketing toàn tập 2024",
+      "price": 899000,
+      "originalPrice": 1299000,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop",
+      "shortDescription": "Khóa học Digital Marketing từ cơ bản đến chuyên sâu",
+      "fullDescription": "Khóa học Digital Marketing toàn diện bao gồm: SEO, SEM, Social Media Marketing, Email Marketing, Content Marketing, và Analytics. Được thiết kế cho marketer mới bắt đầu và những người muốn nâng cao kỹ năng.",
+      "category": "Marketing",
+      "level": "Trung bình",
+      "duration": "4 tháng",
+      "lessons": 60,
+      "rating": 4.7,
+      "reviewCount": 890,
+      "instructor": {
+        "name": "Trần Thị B",
+        "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+        "bio": "Digital Marketing Expert với 6 năm kinh nghiệm"
+      },
+      "features": [
+        "60 bài học thực tế",
+        "Case study chi tiết",
+        "Tools premium",
+        "Certificate Google",
+        "Mentorship 1-1"
+      ],
+      "tags": [
+        "digital marketing",
+        "seo",
+        "sem",
+        "social media"
+      ],
+      "isPopular": false,
+      "discount": 31
+    },
+    {
+      "id": 4,
+      "name": "Thiết kế UI/UX với Figma",
+      "price": 449000,
+      "originalPrice": 599000,
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=300&fit=crop",
+      "shortDescription": "Học thiết kế giao diện người dùng chuyên nghiệp với Figma",
+      "fullDescription": "Khóa học thiết kế UI/UX từ cơ bản đến nâng cao với Figma. Bao gồm: nguyên lý thiết kế, user research, wireframing, prototyping, và design system. Phù hợp cho designer mới bắt đầu và developer muốn hiểu về design.",
+      "category": "Thiết kế",
+      "level": "Cơ bản",
+      "duration": "2 tháng",
+      "lessons": 35,
+      "rating": 4.6,
+      "reviewCount": 567,
+      "instructor": {
+        "name": "Lê Văn C",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face",
+        "bio": "Senior UI/UX Designer tại các công ty top"
+      },
+      "features": [
+        "35 bài học video",
+        "Templates Figma",
+        "Dự án thực tế",
+        "Feedback chi tiết",
+        "Portfolio guide"
+      ],
+      "tags": [
+        "ui/ux",
+        "figma",
+        "thiết kế",
+        "prototype"
+      ],
+      "isPopular": false,
+      "discount": 25
+    },
+    {
+      "id": 5,
+      "name": "Excel nâng cao cho doanh nghiệp",
+      "price": 199000,
+      "originalPrice": 299000,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+      "shortDescription": "Thành thạo Excel với các function nâng cao và dashboard",
+      "fullDescription": "Khóa học Excel nâng cao dành cho nhân viên văn phòng và analyst. Bao gồm: pivot table, vlookup, macros, dashboard, và data visualization. Giúp tăng năng suất làm việc và xử lý dữ liệu hiệu quả.",
+      "category": "Văn phòng",
+      "level": "Nâng cao",
+      "duration": "1 tháng",
+      "lessons": 25,
+      "rating": 4.5,
+      "reviewCount": 345,
+      "instructor": {
+        "name": "Phạm Thị D",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b77c?w=100&h=100&fit=crop&crop=face",
+        "bio": "Excel Expert với 12 năm kinh nghiệm training"
+      },
+      "features": [
+        "25 bài học thực hành",
+        "File Excel mẫu",
+        "Dashboard templates",
+        "Macro automation",
+        "Support trọn đời"
+      ],
+      "tags": [
+        "excel",
+        "data analysis",
+        "office",
+        "productivity"
+      ],
+      "isPopular": true,
+      "discount": 33
+    },
+    {
+      "id": 6,
+      "name": "Photoshop từ cơ bản đến chuyên nghiệp",
+      "price": 399000,
+      "originalPrice": 529000,
+      "image": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?w=400&h=300&fit=crop",
+      "shortDescription": "Khóa học Photoshop toàn diện cho designer và photographer",
+      "fullDescription": "Khóa học Photoshop từ cơ bản đến nâng cao. Bao gồm: công cụ cơ bản, layer, mask, adjustment, retouching, và composite. Phù hợp cho graphic designer, photographer, và những ai muốn chỉnh sửa ảnh chuyên nghiệp.",
+      "category": "Thiết kế",
+      "level": "Cơ bản đến Nâng cao",
+      "duration": "3 tháng",
+      "lessons": 50,
+      "rating": 4.8,
+      "reviewCount": 678,
+      "instructor": {
+        "name": "Hoàng Văn E",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+        "bio": "Professional Photographer và Graphic Designer"
+      },
+      "features": [
+        "50+ bài học chi tiết",
+        "PSD files thực hành",
+        "Brush & Actions",
+        "Portfolio building",
+        "1-on-1 feedback"
+      ],
+      "tags": [
+        "photoshop",
+        "graphic design",
+        "photo editing",
+        "creative"
+      ],
+      "isPopular": false,
+      "discount": 25
+    },
+    {
+      "id": 7,
+      "name": "Đầu tư chứng khoán thông minh",
+      "price": 799000,
+      "originalPrice": 999000,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&h=300&fit=crop",
+      "shortDescription": "Học đầu tư chứng khoán từ cơ bản đến nâng cao",
+      "fullDescription": "Khóa học đầu tư chứng khoán toàn diện từ cơ bản đến nâng cao. Bao gồm: phân tích kỹ thuật, phân tích cơ bản, quản lý rủi ro, và tâm lý đầu tư. Được thiết kế bởi các chuyên gia có kinh nghiệm thực tế.",
+      "category": "Tài chính",
+      "level": "Trung bình",
+      "duration": "4 tháng",
+      "lessons": 45,
+      "rating": 4.9,
+      "reviewCount": 423,
+      "instructor": {
+        "name": "Nguyễn Thành F",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+        "bio": "Fund Manager với 15 năm kinh nghiệm"
+      },
+      "features": [
+        "45 bài học chuyên sâu",
+        "Phần mềm phân tích",
+        "Cộng đồng trader",
+        "Live trading session",
+        "Tư vấn portfolio"
+      ],
+      "tags": [
+        "chứng khoán",
+        "đầu tư",
+        "tài chính",
+        "phân tích"
+      ],
+      "isPopular": true,
+      "discount": 20
+    },
+    {
+      "id": 8,
+      "name": "Tiếng Nhật N3 cấp tốc",
+      "price": 699000,
+      "originalPrice": 899000,
+      "image": "https://images.unsplash.com/photo-1528164344705-47542687000d?w=400&h=300&fit=crop",
+      "shortDescription": "Luyện thi tiếng Nhật N3 trong 6 tháng",
+      "fullDescription": "Khóa học tiếng Nhật N3 cấp tốc với phương pháp học tập trung. Bao gồm: từ vựng, ngữ pháp, đọc hiểu, và nghe hiểu. Được thiết kế cho học viên đã có nền tảng N4 và muốn đạt N3 nhanh chóng.",
+      "category": "Ngoại ngữ",
+      "level": "Trung bình",
+      "duration": "6 tháng",
+      "lessons": 72,
+      "rating": 4.7,
+      "reviewCount": 289,
+      "instructor": {
+        "name": "Tanaka Sensei",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+        "bio": "Giáo viên tiếng Nhật bản ngữ với 8 năm kinh nghiệm"
+      },
+      "features": [
+        "72 bài học cấp tốc",
+        "3000+ từ vựng N3",
+        "Đề thi thử",
+        "Speaking practice",
+        "Học phí trả góp"
+      ],
+      "tags": [
+        "tiếng nhật",
+        "n3",
+        "jlpt",
+        "cấp tốc"
+      ],
+      "isPopular": false,
+      "discount": 22
+    },
+    {
+      "id": 9,
+      "name": "React.js Master Class",
+      "price": 1299000,
+      "originalPrice": 1599000,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=300&fit=crop",
+      "shortDescription": "Khóa học React.js từ cơ bản đến expert level",
+      "fullDescription": "Khóa học React.js toàn diện từ cơ bản đến nâng cao. Bao gồm: Components, Hooks, Context API, Redux, Next.js, Testing, và Performance Optimization. Phù hợp cho developer muốn trở thành React expert.",
+      "category": "Lập trình",
+      "level": "Nâng cao",
+      "duration": "8 tháng",
+      "lessons": 120,
+      "rating": 4.9,
+      "reviewCount": 756,
+      "instructor": {
+        "name": "Đỗ Văn G",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face",
+        "bio": "Senior React Developer tại Google"
+      },
+      "features": [
+        "120+ bài học chi tiết",
+        "10+ dự án thực tế",
+        "Code review",
+        "Interview preparation",
+        "Job placement support"
+      ],
+      "tags": [
+        "react",
+        "javascript",
+        "frontend",
+        "advanced"
+      ],
+      "isPopular": true,
+      "discount": 19
+    },
+    {
+      "id": 10,
+      "name": "Yoga tại nhà cho người mới",
+      "price": 299000,
+      "originalPrice": 399000,
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=300&fit=crop",
+      "shortDescription": "Khóa học Yoga cơ bản tại nhà cho người mới bắt đầu",
+      "fullDescription": "Khóa học Yoga cơ bản được thiết kế đặc biệt cho người mới bắt đầu. Bao gồm: các tư thế cơ bản, hít thở, meditation, và các bài tập thư giãn. Có thể tập tại nhà mà không cần dụng cụ đặc biệt.",
+      "category": "Sức khỏe",
+      "level": "Cơ bản",
+      "duration": "2 tháng",
+      "lessons": 30,
+      "rating": 4.6,
+      "reviewCount": 445,
+      "instructor": {
+        "name": "Nguyễn Thị H",
+        "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+        "bio": "Yoga Instructor với 5 năm kinh nghiệm"
+      },
+      "features": [
+        "30 bài học video HD",
+        "Yoga mat guide",
+        "Breathing exercises",
+        "Relaxation techniques",
+        "Progress tracking"
+      ],
+      "tags": [
+        "yoga",
+        "sức khỏe",
+        "thể dục",
+        "meditation"
+      ],
+      "isPopular": false,
+      "discount": 25
+    },
+    {
+      "id": 11,
+      "name": "Kế toán doanh nghiệp thực hành",
+      "price": 599000,
+      "originalPrice": 799000,
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=300&fit=crop",
+      "shortDescription": "Khóa học kế toán doanh nghiệp từ cơ bản đến thành thạo",
+      "fullDescription": "Khóa học kế toán doanh nghiệp thực hành với các case study thực tế. Bao gồm: nguyên lý kế toán, báo cáo tài chính, thuế, và phần mềm kế toán. Phù hợp cho sinh viên và nhân viên kế toán mới.",
+      "category": "Tài chính",
+      "level": "Cơ bản đến Trung bình",
+      "duration": "5 tháng",
+      "lessons": 55,
+      "rating": 4.8,
+      "reviewCount": 234,
+      "instructor": {
+        "name": "CPA Võ Thị I",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b77c?w=100&h=100&fit=crop&crop=face",
+        "bio": "CPA với 10 năm kinh nghiệm trong lĩnh vực kế toán"
+      },
+      "features": [
+        "55 bài học thực hành",
+        "Phần mềm kế toán",
+        "Tài liệu pháp lý",
+        "Case study thực tế",
+        "Chứng chỉ hoàn thành"
+      ],
+      "tags": [
+        "kế toán",
+        "tài chính",
+        "doanh nghiệp",
+        "thực hành"
+      ],
+      "isPopular": false,
+      "discount": 25
+    },
+    {
+      "id": 12,
+      "name": "Copywriting bán hàng hiệu quả",
+      "price": 499000,
+      "originalPrice": 699000,
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=400&h=300&fit=crop",
+      "shortDescription": "Học viết content bán hàng chuyển đổi cao",
+      "fullDescription": "Khóa học Copywriting toàn diện từ cơ bản đến nâng cao. Bao gồm: psychology of selling, AIDA formula, email marketing, social media copy, và landing page copy. Phù hợp cho marketer và business owner.",
+      "category": "Marketing",
+      "level": "Trung bình",
+      "duration": "3 tháng",
+      "lessons": 42,
+      "rating": 4.7,
+      "reviewCount": 387,
+      "instructor": {
+        "name": "Trần Văn J",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+        "bio": "Copywriter với 7 năm kinh nghiệm cho các brand lớn"
+      },
+      "features": [
+        "42 bài học chi tiết",
+        "Templates copy",
+        "Case study thành công",
+        "Feedback cá nhân",
+        "Community support"
+      ],
+      "tags": [
+        "copywriting",
+        "marketing",
+        "bán hàng",
+        "content"
+      ],
+      "isPopular": true,
+      "discount": 29
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Ngoại ngữ",
+      "slug": "ngoai-ngu",
+      "count": 3,
+      "icon": "🌐"
+    },
+    {
+      "id": 2,
+      "name": "Lập trình",
+      "slug": "lap-trinh",
+      "count": 2,
+      "icon": "💻"
+    },
+    {
+      "id": 3,
+      "name": "Marketing",
+      "slug": "marketing",
+      "count": 2,
+      "icon": "📈"
+    },
+    {
+      "id": 4,
+      "name": "Thiết kế",
+      "slug": "thiet-ke",
+      "count": 2,
+      "icon": "🎨"
+    },
+    {
+      "id": 5,
+      "name": "Tài chính",
+      "slug": "tai-chinh",
+      "count": 2,
+      "icon": "💰"
+    },
+    {
+      "id": 6,
+      "name": "Văn phòng",
+      "slug": "van-phong",
+      "count": 1,
+      "icon": "📊"
+    },
+    {
+      "id": 7,
+      "name": "Sức khỏe",
+      "slug": "suc-khoe",
+      "count": 1,
+      "icon": "🧘"
+    }
+  ],
+  "priceRanges": [
+    {
+      "id": 1,
+      "label": "Dưới 500K",
+      "min": 0,
+      "max": 500000
+    },
+    {
+      "id": 2,
+      "label": "500K - 1 triệu",
+      "min": 500000,
+      "max": 1000000
+    },
+    {
+      "id": 3,
+      "label": "Trên 1 triệu",
+      "min": 1000000,
+      "max": 999999999
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Trần Thị B",
+      "email": "tranthib@example.com",
+      "password": "matkhau2",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+      "favoriteProducts": [
+        3,
+        1,
+        8,
+        5
+      ],
+      "viewHistory": [
+        2,
+        4,
+        6,
+        9,
+        12,
+        1,
+        5,
+        3,
+        8
+      ],
+      "purchaseHistory": [
+        2,
+        4
+      ],
+      "preferences": {
+        "categories": [
+          "Lập trình",
+          "Thiết kế",
+          "Marketing"
+        ],
+        "priceRange": [
+          300000,
+          1500000
+        ],
+        "level": [
+          "Trung bình",
+          "Nâng cao"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị B",
+      "email": "tranthib@example.com",
+      "password": "matkhau2",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+      "favoriteProducts": [
+        2,
+        4,
+        9
+      ],
+      "viewHistory": [
+        2,
+        4,
+        6,
+        9,
+        12
+      ],
+      "purchaseHistory": [
+        2,
+        4
+      ],
+      "preferences": {
+        "categories": [
+          "Lập trình",
+          "Thiết kế",
+          "Marketing"
+        ],
+        "priceRange": [
+          300000,
+          1500000
+        ],
+        "level": [
+          "Trung bình",
+          "Nâng cao"
+        ]
+      }
+    },
+    {
+      "id": 1752151295517,
+      "name": "a",
+      "email": "nguyenvan@example.com",
+      "password": "matkhau1",
+      "avatar": "https://source.unsplash.com/100x100/?face",
+      "favoriteProducts": [],
+      "viewHistory": [],
+      "purchaseHistory": [],
+      "preferences": {
+        "categories": [],
+        "priceRange": [
+          0,
+          1000000
+        ],
+        "level": []
+      }
+    },
+    {
+      "id": 1752151436486,
+      "name": "a",
+      "email": "nguyenvna@example.com",
+      "password": "matkhau1",
+      "avatar": "https://source.unsplash.com/100x100/?face",
+      "favoriteProducts": [],
+      "viewHistory": [],
+      "purchaseHistory": [],
+      "preferences": {
+        "categories": [],
+        "priceRange": [
+          0,
+          1000000
+        ],
+        "level": []
+      }
+    },
+    {
+      "id": 1752309057380,
+      "name": "Huỳnh Kim Tuyền",
+      "email": "huynhkimtuyen@gmail.com",
+      "password": "111111",
+      "avatar": "https://source.unsplash.com/100x100/?face",
+      "favoriteProducts": [
+        2,
+        3,
+        4
+      ],
+      "viewHistory": [
+        5,
+        1,
+        2
+      ],
+      "purchaseHistory": [],
+      "preferences": {
+        "categories": [],
+        "priceRange": [
+          0,
+          1000000
+        ],
+        "level": []
+      }
+    }
+  ],
+  "suggestions": {
+    "1": {
+      "userId": 1,
+      "products": [
+        7,
+        11,
+        12
+      ],
+      "reason": "Dựa trên lịch sử xem và sở thích của bạn về các khóa học thực hành",
+      "aiAnalysis": {
+        "behaviorPattern": "Người dùng thích các khóa học có tính ứng dụng cao",
+        "recommendedReasons": [
+          "Đã xem khóa học Excel và có xu hướng học các kỹ năng văn phòng",
+          "Quan tâm đến các khóa học có giá trị thực tiễn",
+          "Thích các khóa học thời gian ngắn, hiệu quả"
+        ]
+      }
+    },
+    "2": {
+      "userId": 2,
+      "products": [
+        1,
+        6,
+        8
+      ],
+      "reason": "Gợi ý dựa trên profile học tập đa dạng của bạn",
+      "aiAnalysis": {
+        "behaviorPattern": "Người dùng có xu hướng học các kỹ năng creative và technical",
+        "recommendedReasons": [
+          "Đã mua khóa học lập trình và thiết kế",
+          "Quan tâm đến việc phát triển kỹ năng toàn diện",
+          "Thích các khóa học có chất lượng cao"
+        ]
+      }
+    }
+  },
+  "reviews": [
+    {
+      "id": 1,
+      "productId": 1,
+      "userId": 1,
+      "userName": "Nguyễn Văn A",
+      "userAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+      "rating": 5,
+      "comment": "Khóa học rất hay, giáo viên dạy dễ hiểu. Sau 3 tháng học tôi đã có thể giao tiếp cơ bản bằng tiếng Anh.",
+      "date": "2024-01-15",
+      "isVerified": true
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "userId": 2,
+      "userName": "Trần Thị B",
+      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+      "rating": 4,
+      "comment": "Nội dung khóa học tốt, tuy nhiên mình mong muốn có thêm bài tập thực hành.",
+      "date": "2024-01-10",
+      "isVerified": true
+    }
+  ],
+  "chatbotResponses": {
+    "greetings": [
+      "Xin chào! Tôi là AI Assistant của EduMarket. Tôi có thể giúp bạn tìm kiếm khóa học phù hợp. Bạn đang quan tâm đến lĩnh vực nào?",
+      "Chào bạn! Tôi có thể tư vấn khóa học cho bạn. Hãy cho tôi biết bạn muốn học gì nhé!"
+    ],
+    "english": [
+      "Tôi thấy bạn quan tâm đến tiếng Anh. Chúng tôi có:",
+      "- Khóa học tiếng Anh giao tiếp cơ bản (299K)",
+      "- Khóa học tiếng Anh thương mại (đang cập nhật)",
+      "Bạn đang ở trình độ nào và muốn học để làm gì?"
+    ],
+    "programming": [
+      "Về lập trình, chúng tôi có các khóa học hot:",
+      "- Python từ Zero đến"
+    ]
+  }
+}
